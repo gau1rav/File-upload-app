@@ -1,0 +1,12 @@
+.navbar {
+  flex: 0.5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /*background-color: #64B5F6;*/
+  background-color: #5C6BC0;
+}
+
+.navbar_title {
+  color: #FFFFFF;
+}

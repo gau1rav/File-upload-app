@@ -1,0 +1,55 @@
+.page_container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.form_container {
+  flex: 30;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: px;
+  margin: 5px;
+}
+
+.label_container {
+  flex: 5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.browse_label_container {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.browse_label {
+  color: #FFFFFF;
+  background-color: #E0A458;
+  height: 40px;
+  width: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+.label1 {
+  font-size: 120%
+}
+
+.label2 {
+  color: #757575;
+  font-size: 80%;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: center
+}
